@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 (Essa parte está em desenvolvimento, por favor aguardem).
 
 - 🔭 Hoje estou estudando ligangem de programação  Ruby 
 - 🌱 I’m currently learning ...
